@@ -4,6 +4,12 @@ An endless mental arithmetic puzzle game built with Flutter.
 
 Hit target sums by selecting tiles on a 3x3 grid before the 30-second timer expires. Build your consecutive streak across 100 levels from single digits to 4-digit arithmetic.
 
+## Screenshots
+
+| Home Screen | Gameplay | Perfect Solve | Game Over |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/home.jpg" width="200" alt="Home Screen" /> | <img src="screenshots/gameplay.jpg" width="200" alt="Gameplay Screen" /> | <img src="screenshots/solved.jpg" width="200" alt="Perfect Solve" /> | <img src="screenshots/game-over.jpg" width="200" alt="Game Over" /> |
+
 ## Gameplay Mechanics
 
 - 3x3 Grid: 9 randomized positive integer tiles per puzzle.
